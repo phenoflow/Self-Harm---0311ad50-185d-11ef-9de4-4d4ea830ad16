@@ -1,0 +1,162 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/self-harm-throwing---primary.py
+inputModule3:
+  class: File
+  path: python/self-harm-mutilation---primary.py
+inputModule4:
+  class: File
+  path: python/self-harm-parasuicide---primary.py
+inputModule5:
+  class: File
+  path: python/self-harm-overdose---primary.py
+inputModule6:
+  class: File
+  path: python/self-harm-intention---primary.py
+inputModule7:
+  class: File
+  path: python/self-harm-occurrence---primary.py
+inputModule8:
+  class: File
+  path: python/self-harm-inflicted---primary.py
+inputModule9:
+  class: File
+  path: python/self-harm-jumping---primary.py
+inputModule10:
+  class: File
+  path: python/self-harm-specified---primary.py
+inputModule11:
+  class: File
+  path: python/self-harm-organ---primary.py
+inputModule12:
+  class: File
+  path: python/deliberate-self-harm---primary.py
+inputModule13:
+  class: File
+  path: python/self-harm-selfscalding---primary.py
+inputModule14:
+  class: File
+  path: python/self-harm-undetermined---primary.py
+inputModule15:
+  class: File
+  path: python/self-harm-stabbing---primary.py
+inputModule16:
+  class: File
+  path: python/self-harm-selfasphyxiation---primary.py
+inputModule17:
+  class: File
+  path: python/self-harm-medicine---primary.py
+inputModule18:
+  class: File
+  path: python/self-harm-drown---primary.py
+inputModule19:
+  class: File
+  path: python/self-harm-antidepressant---primary.py
+inputModule20:
+  class: File
+  path: python/self-harm-institut---primary.py
+inputModule21:
+  class: File
+  path: python/self-harm---primary.py
+inputModule22:
+  class: File
+  path: python/self-harm-strangul---primary.py
+inputModule23:
+  class: File
+  path: python/self-harm-vehicl---primary.py
+inputModule24:
+  class: File
+  path: python/self-harm-cutting---primary.py
+inputModule25:
+  class: File
+  path: python/self-harm-medicament---primary.py
+inputModule26:
+  class: File
+  path: python/resident-self-harm---primary.py
+inputModule27:
+  class: File
+  path: python/self-harm-setting---primary.py
+inputModule28:
+  class: File
+  path: python/larger-self-harm---primary.py
+inputModule29:
+  class: File
+  path: python/self-harm-hanging---primary.py
+inputModule30:
+  class: File
+  path: python/selfharm---primary.py
+inputModule31:
+  class: File
+  path: python/self-harm-injuryjump---primary.py
+inputModule32:
+  class: File
+  path: python/self-harm-pesticide---primary.py
+inputModule33:
+  class: File
+  path: python/self-harm-admin---primary.py
+inputModule34:
+  class: File
+  path: python/self-harm-hallucinogen---primary.py
+inputModule35:
+  class: File
+  path: python/self-harm-poisoning---primary.py
+inputModule36:
+  class: File
+  path: python/self-harm-constr---primary.py
+inputModule37:
+  class: File
+  path: python/self-harm-steam---primary.py
+inputModule38:
+  class: File
+  path: python/self-harm-selfincineration---primary.py
+inputModule39:
+  class: File
+  path: python/self-harm-behaviour---primary.py
+inputModule40:
+  class: File
+  path: python/self-harm-train---primary.py
+inputModule41:
+  class: File
+  path: python/self-harm-suffocation---primary.py
+inputModule42:
+  class: File
+  path: python/self-harm-alcohol---primary.py
+inputModule43:
+  class: File
+  path: python/self-harm-front---primary.py
+inputModule44:
+  class: File
+  path: python/self-harm-monoxide---primary.py
+inputModule45:
+  class: File
+  path: python/self-harm-frarm---primary.py
+inputModule46:
+  class: File
+  path: python/self-harm-selfdamage---primary.py
+inputModule47:
+  class: File
+  path: python/self-harm-substance---primary.py
+inputModule48:
+  class: File
+  path: python/self-harm-strangle---primary.py
+inputModule49:
+  class: File
+  path: python/medic-self-harm---primary.py
+inputModule50:
+  class: File
+  path: python/self-harm-wrist---primary.py
+inputModule51:
+  class: File
+  path: python/self-harm-selfelectrocution---primary.py
+inputModule52:
+  class: File
+  path: python/self-harm-solventhalogen---primary.py
+inputModule53:
+  class: File
+  path: python/output-cases.py
